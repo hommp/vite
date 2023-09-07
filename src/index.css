@@ -1,0 +1,34 @@
+/* Reset margin and set font for the entire document */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+
+/* Set font for code elements */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* Set the maximum width for images to 40% of their container */
+img {
+  max-width: 40%;
+  display: block;
+  margin: 0 auto; /* Center align images */
+}
+
+/* Style for heading 2 elements */
+h2 {
+  text-align: center;
+  font-family: "cubano", sans-serif;
+  font-weight: 400;
+  color: white;
+  font-size: 10vw;
+  text-shadow: -0.04em 0.04em 0 #000, 0.04em 0.04em 0 #000,
+    0.04em -0.04em 0 #000, -0.04em -0.04em 0 #000;
+}

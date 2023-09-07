@@ -1,0 +1,200 @@
+/* Mengelompokkan properti-properti yang berhubungan */
+.App {
+  text-align: center;
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+
+  /* Animasi hanya aktif jika prefers-reduced-motion adalah no-preference */
+  @media (prefers-reduced-motion: no-preference) {
+    animation: spin 20s linear infinite;
+  }
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-link {
+  color: #61dafb;
+}
+
+/* Keyframes */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Menggunakan selektor umum untuk tombol */
+button {
+  font-size: calc(10px + 2vmin);
+}
+
+/* Komentar untuk menjelaskan kode jika diperlukan */
+/* Prefix vendor untuk mendukung browser yang berbeda */
+/* Mengelompokkan properti-properti yang berhubungan */
+.App {
+  text-align: center;
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+
+  /* Animasi hanya aktif jika prefers-reduced-motion adalah no-preference */
+  @media (prefers-reduced-motion: no-preference) {
+    animation: spin 20s linear infinite;
+  }
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-link {
+  color: #61dafb;
+}
+
+/* Keyframes */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Menggunakan selektor umum untuk tombol */
+button {
+  font-size: calc(10px + 2vmin);
+}
+
+/* Komentar untuk menjelaskan kode jika diperlukan */
+/* Prefix vendor untuk mendukung browser yang berbeda */
+/* Mengelompokkan properti-properti yang berhubungan */
+.App {
+  text-align: center;
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+
+  /* Animasi hanya aktif jika prefers-reduced-motion adalah no-preference */
+  @media (prefers-reduced-motion: no-preference) {
+    animation: spin 20s linear infinite;
+  }
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-link {
+  color: #61dafb;
+}
+
+/* Keyframes */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Menggunakan selektor umum untuk tombol */
+button {
+  font-size: calc(10px + 2vmin);
+}
+
+/* Komentar untuk menjelaskan kode jika diperlukan */
+/* Prefix vendor untuk mendukung browser yang berbeda */
+/* Mengelompokkan properti-properti yang berhubungan */
+.App {
+  text-align: center;
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+
+  /* Animasi hanya aktif jika prefers-reduced-motion adalah no-preference */
+  @media (prefers-reduced-motion: no-preference) {
+    animation: spin 20s linear infinite;
+  }
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* Menggunakan nama kelas yang lebih deskriptif */
+.App-link {
+  color: #61dafb;
+}
+
+/* Keyframes */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Menggunakan selektor umum untuk tombol */
+button {
+  font-size: calc(10px + 2vmin);
+}
+
+/* Komentar untuk menjelaskan kode jika diperlukan */
+/* Prefix vendor untuk mendukung browser yang berbeda */
